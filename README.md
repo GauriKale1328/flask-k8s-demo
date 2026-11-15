@@ -1,7 +1,7 @@
 # Docker and Kubernetes Deployment - Cloud-Native Assignment
 
-**Name:** YOUR NAME
-**PRN / Roll No:** YOUR NUMBER
+**Name:** Gauri Kale
+**PRN / Roll No:** 202301040079
 **Course:** Cloud Computing / Cloud-Native
 
 ## Overview
