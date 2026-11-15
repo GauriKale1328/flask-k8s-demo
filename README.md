@@ -50,7 +50,7 @@ Open http://localhost:30007
 Add images from the `screenshots/` folder here.
 
 ## Demo video
-PASTE VIDEO LINK HERE
+(https://drive.google.com/file/d/1WHTF2-PJgv4L5LDXKfzh12VnwMmqWYbA/view?usp=sharing)
 
 ## Technologies
 Python, Flask, Docker, Kubernetes, kubectl, GitHub
